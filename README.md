@@ -1,4 +1,5 @@
 # Harvest Bitbar Plugin
+Displays data from harvest in your [bitbar/xbar](https://xbarapp.com/)
 
 ## Usage
 1. Create a new [Personal Access Token](https://id.getharvest.com/developers)
@@ -17,7 +18,7 @@
 Show the share of time between different clients.
 
 #### Usage
-Create a file like harvest-client-share.15m.sh
+Create a file like harvest-client-share.15m.sh in the plugin-folder of bitbar/xbar
 
 ```bash
 #!/bin/bash
